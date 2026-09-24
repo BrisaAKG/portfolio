@@ -53,7 +53,7 @@ export default function NavBar() {
     <>
       <header className="fixed md:relative top-0 left-0 right-0 z-50 h-20 w-full overflow-visible border-b-2 border-black bg-cream-nav">
         {" "}
-        <div className="relative mx-auto flex h-full max-w-360 items-center px-6 md:px-28">
+        <div className="relative mx-auto flex h-full max-w-1200 items-center px-6 md:px-28">
           <Link
             to="/"
             className="flex items-center gap-4"
